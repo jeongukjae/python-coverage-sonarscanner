@@ -1,4 +1,4 @@
-from python:3.6.8-stretch
+FROM python:3.6.8-stretch
 
 LABEL maintainer="Ukjae Jeong <jeongukjae@gmail.com>"
 
